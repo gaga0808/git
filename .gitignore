@@ -1,0 +1,8 @@
+target/**
+.classes
+.jar
+.project
+.classpath
+.settings/**
+.springBeans
+.idea/**
